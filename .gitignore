@@ -15,4 +15,4 @@ __pycache__/
 .DS_Store
 Thumbs.db
 # Docker data
-data/
+data/Miniconda3-latest-Linux-x86_64.sh
