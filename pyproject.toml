@@ -1,0 +1,15 @@
+[project]
+name = "main-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "psycopg2-binary",
+    "pandas",
+    "matplotlib",
+    "python-dotenv",
+    "prophet",
+    "pmdarima>=2.0.4",
+    "statsmodels>=0.14.5",
+]
